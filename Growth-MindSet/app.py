@@ -3,6 +3,7 @@ import streamlit as st
 import random
 import json
 import os
+import plotly.graph_objects as go
 
 # Set page config
 st.set_page_config(page_title="Growth Mindset App", page_icon="🧠", layout="wide")
